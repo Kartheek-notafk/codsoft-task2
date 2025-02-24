@@ -53,7 +53,7 @@ int main(){
             }
         }
         else if(choice == 3){
-            cout << "Exiting the program."
+            cout << "Exiting the program.";
             return 0;
         }
         else {
